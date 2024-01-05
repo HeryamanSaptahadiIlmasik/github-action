@@ -31,4 +31,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: heryamansaptahadiilmasik/github-action:latest
+          tags: hsaptahadi/github-action:latest
